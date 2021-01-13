@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Common
 {
-    class SingleResponse<T> : Response
+    public class SingleResponse<T> : Response
     {
         public T Data { get; set; } 
     }
