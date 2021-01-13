@@ -8,6 +8,5 @@ namespace Common
         public bool Success { get; set; }
         public string ExceptionMessage { get; set; }
         public string StackTrace { get; set; }
-
     }
 }
