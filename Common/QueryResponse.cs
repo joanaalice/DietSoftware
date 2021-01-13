@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Common
 {
-    public class QueryResponse
+    public class QueryResponse<T>
     {
         public List<T> Data { get; set; }
     }
