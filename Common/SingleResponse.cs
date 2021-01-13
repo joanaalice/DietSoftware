@@ -6,6 +6,6 @@ namespace Common
 {
     class SingleResponse<T> : Response
     {
-        public T Data { get; set; }
+        public T Data { get; set; } 
     }
 }
