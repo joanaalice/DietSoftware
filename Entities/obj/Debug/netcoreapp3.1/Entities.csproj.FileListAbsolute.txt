@@ -1,0 +1,12 @@
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.json
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\Entities\bin\Debug\netcoreapp3.1\Entities.runtimeconfig.dev.json
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\Entities\obj\Debug\netcoreapp3.1\Entities.genruntimeconfig.cache
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\Entities\obj\Debug\netcoreapp3.1\Entities.csprojAssemblyReference.cache

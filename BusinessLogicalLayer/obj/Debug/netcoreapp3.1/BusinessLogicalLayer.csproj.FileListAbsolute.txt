@@ -1,0 +1,9 @@
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\BusinessLogicalLayer\bin\Debug\netcoreapp3.1\BusinessLogicalLayer.deps.json
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\BusinessLogicalLayer\bin\Debug\netcoreapp3.1\BusinessLogicalLayer.dll
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\BusinessLogicalLayer\obj\Debug\netcoreapp3.1\BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\BusinessLogicalLayer\obj\Debug\netcoreapp3.1\BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\BusinessLogicalLayer\obj\Debug\netcoreapp3.1\BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\BusinessLogicalLayer\bin\Debug\netcoreapp3.1\BusinessLogicalLayer.runtimeconfig.json
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\BusinessLogicalLayer\bin\Debug\netcoreapp3.1\BusinessLogicalLayer.runtimeconfig.dev.json
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\BusinessLogicalLayer\obj\Debug\netcoreapp3.1\BusinessLogicalLayer.genruntimeconfig.cache
+C:\Users\Joana.DESKTOP-1T5I4G0\Desktop\DietSystem\DietSoftware\BusinessLogicalLayer\obj\Debug\netcoreapp3.1\BusinessLogicalLayer.csproj.CoreCompileInputs.cache

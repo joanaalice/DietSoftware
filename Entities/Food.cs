@@ -1,13 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Text;
 
 namespace Entities
 {
     public class Food
     {
+		[Key]
 		public int ID { get; set; }
+
+		[Required]
+		public Category Category { get; set; }
+
+		[Required]
 		public string Food_Name { get; set; }
+
 		public double Calories { get; set; }
 		public double Alcohol { get; set; }
 		public double Carbohydrate { get; set; }

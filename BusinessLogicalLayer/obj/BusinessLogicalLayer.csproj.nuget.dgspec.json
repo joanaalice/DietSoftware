@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\entra21\\source\\repos\\DietSystem\\BusinessLogicalLayer\\BusinessLogicalLayer.csproj": {}
+    "C:\\Users\\Joana.DESKTOP-1T5I4G0\\Desktop\\DietSystem\\DietSoftware\\BusinessLogicalLayer\\BusinessLogicalLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\entra21\\source\\repos\\DietSystem\\BusinessLogicalLayer\\BusinessLogicalLayer.csproj": {
+    "C:\\Users\\Joana.DESKTOP-1T5I4G0\\Desktop\\DietSystem\\DietSoftware\\BusinessLogicalLayer\\BusinessLogicalLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\entra21\\source\\repos\\DietSystem\\BusinessLogicalLayer\\BusinessLogicalLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Joana.DESKTOP-1T5I4G0\\Desktop\\DietSystem\\DietSoftware\\BusinessLogicalLayer\\BusinessLogicalLayer.csproj",
         "projectName": "BusinessLogicalLayer",
-        "projectPath": "C:\\Users\\entra21\\source\\repos\\DietSystem\\BusinessLogicalLayer\\BusinessLogicalLayer.csproj",
-        "packagesPath": "C:\\Users\\entra21\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\entra21\\source\\repos\\DietSystem\\BusinessLogicalLayer\\obj\\",
+        "projectPath": "C:\\Users\\Joana.DESKTOP-1T5I4G0\\Desktop\\DietSystem\\DietSoftware\\BusinessLogicalLayer\\BusinessLogicalLayer.csproj",
+        "packagesPath": "C:\\Users\\Joana.DESKTOP-1T5I4G0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Joana.DESKTOP-1T5I4G0\\Desktop\\DietSystem\\DietSoftware\\BusinessLogicalLayer\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\entra21\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Joana.DESKTOP-1T5I4G0\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,7 +26,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,7 +37,24 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
